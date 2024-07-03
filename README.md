@@ -1,6 +1,6 @@
 # Offensive-Cyber-Security-Projects
 
-Title: Brandon's Offensive Security Projects<br>
+<b>Brandon's Offensive Security Projects<br>
 Description: This repository serves as a hub for my personal projects in offensive cybersecurity. It explores various techniques for penetration testing, vulnerability research, and exploit development.<br>
 Disclaimer: The tools and techniques showcased here are intended for educational purposes only. This repository does not endorse or encourage malicious activity. Responsible disclosure of vulnerabilities is highly encouraged.<br>
 Project List:<br>
