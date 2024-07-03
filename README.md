@@ -39,7 +39,7 @@ This project focused on exploiting a SQL injection vulnerability in the login fo
 <b>Technologies Used:</b><br>
 OWASP Juice Shop (Web Application)<br>
 Burp Suite Community Edition (Web Security Testing Tool)<br><br>
-<b>Impact:<b><br>
+<b>Impact:</b><br>
 This vulnerability could allow attackers to gain unauthorized access to privileged accounts, potentially leading to data breaches or system compromise.<br><br>
 <b>Key Takeaway:</b><br>
 The project highlights the importance of secure input validation and parameterized queries to prevent SQL injection vulnerabilities in web applications.<br>
